@@ -7,8 +7,8 @@ function NavBar() {
   const dot = "●";
   return (
     <NavBarContainer>
-      <NavBarLinks href="/">
-        {location.pathname === "/" ? (
+      <NavBarLinks href="/portfolio">
+        {location.pathname === "/portfolio" ? (
           <NavBarItems>{dot}</NavBarItems>
         ) : (
           <NavBarItems>Home</NavBarItems>
