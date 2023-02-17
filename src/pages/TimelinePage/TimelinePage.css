@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1160px) {
+  .dateLight {
+    display: block !important;
+    float: none !important;
+    color: #1c1c1c;
+    font-family: "Quicksand", sans-serif;
+  }
+  .dateDark {
+    display: block !important;
+    float: none !important;
+    color: #1c1c1c;
+    font-family: "Quicksand", sans-serif;
+  }
+}

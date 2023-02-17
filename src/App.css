@@ -1,0 +1,13 @@
+.AppContainer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+@media only screen and (max-width: 650px) {
+  .AppContainer {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    flex-direction: column;
+    align-items: center;
+  }
+}
