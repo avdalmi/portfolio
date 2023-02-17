@@ -36,7 +36,7 @@ function App() {
             <Route path="/projects/:id" element={ <ProjectPage /> } />
             <Route path="/projects" element={ <ProjectNavBar /> } />
             <Route path="/contact" element={ <ContactPage /> } />
-            <Route path="/about" element={ <AboutPage /> } />
+            <Route path="/portfolio/#/about" element={ <AboutPage /> } />
           </Routes>
         </StyledApp>
       </div>
