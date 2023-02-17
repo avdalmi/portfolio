@@ -32,7 +32,7 @@ function App() {
           <MainPage />
 
           <Routes>
-            <Route path="#/cv" element={ <TimeLinePage /> } />
+            <Route path="/portfolio/#/cv" element={ <TimeLinePage /> } />
             <Route path="#/projects/:id" element={ <ProjectPage /> } />
             <Route path="#/projects" element={ <ProjectNavBar /> } />
             <Route path="#/contact" element={ <ContactPage /> } />
