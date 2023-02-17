@@ -16,7 +16,7 @@ function NavBar() {
       </NavBarLinks>
 
       <NavBarLinks href="/portfolio/#/about">
-        {location.pathname === "/about" ? (
+        {location.pathname === "/portfolio/#/about" ? (
           <NavBarItems>{dot}</NavBarItems>
         ) : (
           <NavBarItems>About</NavBarItems>
