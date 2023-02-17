@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.d7f31876.css",
+    "main.js": "/portfolio-website/static/js/main.c602adf2.js",
+    "static/media/Akiko.jpeg": "/portfolio-website/static/media/Akiko.91ae8eec42e5e480ddaa.jpeg",
+    "static/media/school.svg": "/portfolio-website/static/media/school.a41655f6d5350015803153c7410cef6a.svg",
+    "index.html": "/portfolio-website/index.html",
+    "static/media/work.svg": "/portfolio-website/static/media/work.6cb1a4fcf3dcd3fc4d0f6230f05d9c06.svg",
+    "main.d7f31876.css.map": "/portfolio-website/static/css/main.d7f31876.css.map",
+    "main.c602adf2.js.map": "/portfolio-website/static/js/main.c602adf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7f31876.css",
+    "static/js/main.c602adf2.js"
+  ]
+}
